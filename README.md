@@ -1,5 +1,5 @@
 <h2 align="left">Hi, I'm Kyriakos</h1>
-<h4 align="left">Software Engineer located in Montreal, QC</h4>
+<h3 align="left">Software Engineer located in Montreal, QC</h3>
 
 <h5>I’m currently working on Fintech & Proptech Applications</h5>
 <h5>Programming Languages: JavaScript, TypeScript, HTML/CSS, Java, C#, Python, PowerShell, SQL</h5>
