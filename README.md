@@ -1,4 +1,4 @@
-<h2 align="left">Hi, I'm Kyriakos</h2>
+<h3 align="left">Hi, I'm Kyriakos</h3>
 <h3 align="left">Software Engineer located in Montreal, QC</h3>
 
 <h4 style="margin-bottom: 0;">I’m currently working on Fintech & Proptech Applications</h4>
